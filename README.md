@@ -17,7 +17,7 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [go-rest-boilerplate](https://github.com/yourusername/go-rest-Prod-ready)
+### 🔹 [go-rest-boilerplate](https://github.com/ritu-p/go-rest)
 Production-ready **REST API boilerplate** with Gin, JWT authentication, PostgreSQL, Docker, and GitHub Actions CI/CD. Includes Swagger docs and unit tests.
 
 ---
